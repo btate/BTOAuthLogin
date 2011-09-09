@@ -46,13 +46,13 @@
     if (self) {
         // Custom initialization
         self.hideCancelBar = NO;
-        self.usePostMethodForLogin = YES;
+        self.usePostMethodForLogin = NO;
     }
     return self;
 }
 
 - (id) init{
-    self = [super initWithNibName:@"BTOAuthLoginViewController" bundle:nil];
+    self = [self initWithNibName:@"BTOAuthLoginViewController" bundle:nil];
     if (self) {
         // Setup custom stuff
     }
