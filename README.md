@@ -55,6 +55,10 @@ using the following delegate methods.
 </pre>
 
 
-
+<p>
 This library uses the popular <a href="http://code.google.com/p/oauthconsumer/">OAConsumer Library</a> and the <br />
 <a href="http://allseeing-i.com/ASIHTTPRequest/">ASIHTTPRequest Library</a> to process the login.  Thanks to those guys.
+</p>
+
+<p> This is free to use however. </p>
+
